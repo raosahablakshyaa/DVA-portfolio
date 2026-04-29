@@ -1,2 +1,4 @@
 # DVA-portfolio
-dva-portfolio-chi.vercel.app
+
+
+[Resume-Lakshya Yadav DVA.pdf](https://github.com/user-attachments/files/27203177/Resume-Lakshya.Yadav.DVA.pdf)
